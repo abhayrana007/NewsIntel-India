@@ -15,6 +15,11 @@
 </p>
 
 ---
+### 🖥️ Dashboard Preview
+
+![NewsIntel India Dashboard](data/screenshots/Screenshot%202026-10-13%20115814.png)
+
+*Interactive cyber incident map and dashboard filters.*
 
 ## 🔍 About the Project
 
